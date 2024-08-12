@@ -1,5 +1,7 @@
 ## Project Brief: DJS10 - Asynchrony
 
+# Loom Video Link:
+
 # React Blog Posts Fetcher
 
 This project is a simple React application that fetches and displays blog posts from a public API. The application demonstrates best practices in React development, including the separation of concerns, error handling, and the use of custom hooks.
@@ -7,7 +9,6 @@ This project is a simple React application that fetches and displays blog posts 
 ## Table of Contents
 
 - [Features](#features)
-- [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Custom Hook: useFetchPosts](#custom-hook-usefetchposts)
@@ -20,23 +21,6 @@ This project is a simple React application that fetches and displays blog posts 
 - Handles errors gracefully, displaying a user-friendly message if the API call fails.
 - Separates data fetching logic from UI rendering using a custom hook.
 - Clean and modular code structure for easy maintenance and scalability.
-
-## Project Structure
-
-react-blog-posts-fetcher/
-├── public/
-├── src/
-│ ├── components/
-│ │ └── BlogPosts.js # Component for rendering blog posts
-│ ├── hooks/
-│ │ └── useFetchPosts.js # Custom hook for fetching posts
-│ ├── App.js # Main application component
-│ ├── index.js # Entry point for the React app
-│ └── index.css # Global styles
-├── .gitignore
-├── package.json
-├── README.md # This file
-└── yarn.lock or package-lock.json
 
 ## Installation
 
