@@ -36,7 +36,7 @@ const useFetchPosts = () => {
         setPosts(data);
       } catch (error) {
         // If an error occurs, update the error state with an error message
-        setError("Data fetching failed");
+        setError("Failed to fetch posts");
       }
     };
 
