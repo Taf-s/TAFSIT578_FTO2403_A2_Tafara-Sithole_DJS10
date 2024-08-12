@@ -23,20 +23,19 @@ This project is a simple React application that fetches and displays blog posts 
 
 ## Project Structure
 
-```plaintext
 react-blog-posts-fetcher/
 ├── public/
 ├── src/
-│   ├── components/
-│   │   └── BlogPosts.js     # Component for rendering blog posts
-│   ├── hooks/
-│   │   └── useFetchPosts.js  # Custom hook for fetching posts
-│   ├── App.js               # Main application component
-│   ├── index.js             # Entry point for the React app
-│   └── index.css            # Global styles
+│ ├── components/
+│ │ └── BlogPosts.js # Component for rendering blog posts
+│ ├── hooks/
+│ │ └── useFetchPosts.js # Custom hook for fetching posts
+│ ├── App.js # Main application component
+│ ├── index.js # Entry point for the React app
+│ └── index.css # Global styles
 ├── .gitignore
 ├── package.json
-├── README.md                # This file
+├── README.md # This file
 └── yarn.lock or package-lock.json
 
 ## Installation
@@ -59,7 +58,6 @@ yarn insall
 ## Usage
 
 ### Start the development server:
-
 
 using npm:
 
@@ -95,11 +93,6 @@ If you'd like to contribute to this project, feel free to fork the repository an
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-
-
-
-
-
-
+```
 
 ```
