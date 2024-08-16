@@ -2,6 +2,8 @@
 
 # Loom Video Link:
 
+https://www.loom.com/share/d8dd56987bc847b08bfb2953dfb4ab9e?sid=571a1810-04ec-4d2a-bc00-d64e84c1a67a
+
 # React Blog Posts Fetcher
 
 This project is a simple React application that fetches and displays blog posts from a public API. The application demonstrates best practices in React development, including the separation of concerns, error handling, and the use of custom hooks.
